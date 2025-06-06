@@ -59,12 +59,3 @@
 <p align="center">
   <b>Thanks for visiting! Keep building. 🚀</b>
 </p>
-
-<!DOCTYPE html>
-<html>
-<head><title>My GitHub Profile</title></head>
-<body>
-  <h1>Welcome to my Profile Page</h1>
-  <p>This site complements my GitHub profile README!</p>
-</body>
-</html>
