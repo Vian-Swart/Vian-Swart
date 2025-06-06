@@ -45,13 +45,13 @@
   <a href="mailto:swartvian@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/vian-swart-52439136a">
+  <a href="www.linkedin.com/in/vian-swart-52439136a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/vian4491/profilecard/?igsh=NXUzbHF2dXBoOGk1">
+   <a href="https://www.instagram.com/vian4491/profilecard/?igsh=NXUzbHF2dXBoOGk1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/share/1GxyVr9fVc/">
+  <a href="https://www.facebook.com/share/1GxyVr9fVc/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>7
 </p>
