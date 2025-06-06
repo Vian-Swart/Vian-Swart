@@ -1,4 +1,4 @@
-<!-- PROFILE README FOR: Vian Swart -->
+<!-- PROFILE README FOR: Vian Swart -->Add commentMore actions
 
 <h1 align="center">Hi there 👋, I'm Vian Swart</h1>
 
@@ -41,22 +41,14 @@
 
 ## 🔗 Connect With Me
 
-<div class="light-button">
-  <button class="bt" onclick="window.open('www.linkedin.com/in/vian-swart-52439136a', '_blank')>
-    <div class="light-holder">
-      <div class="dot"></div>
-      <div class="light"></div>
-    </div>
-    <div class="button-holder">
-      <svg height="1em" viewBox="0 0 448 512">
-        <path
-          d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
-        ></path>
-      </svg>
-      <p>linkedin</p>
-    </div>
-  </button>
-</div>
+<p align="center">
+  <a href="mailto:swartvian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/vian-swart-52439136a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
