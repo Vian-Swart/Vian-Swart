@@ -1,4 +1,4 @@
-<!-- PROFILE README FOR: Vian Swart -->Add commentMore actions
+<!-- PROFILE README FOR: Vian Swart -->
 
 <h1 align="center">Hi there 👋, I'm Vian Swart</h1>
 
