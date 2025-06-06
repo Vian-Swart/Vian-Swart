@@ -1,204 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Vian Swart's Profile</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    /* Reset and base */
-    body {
-      background: linear-gradient(135deg, #121212, #1e1e1e);
-      color: #eee;
-      font-family: 'Roboto', sans-serif;
-      margin: 2rem auto;
-      max-width: 700px;
-      padding: 1rem 2rem;
-      line-height: 1.5;
-      text-align: center;
-      border-radius: 10px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-    }
+<!-- PROFILE README FOR: Vian Swart -->Add commentMore actions
 
-    h1 {
-      color: #00F787;
-      margin-bottom: 0.2rem;
-      font-weight: 700;
-      font-size: 2.5rem;
-    }
+<h1 align="center">Hi there 👋, I'm Vian Swart</h1>
 
-    hr {
-      border: none;
-      border-top: 1px solid #444;
-      margin: 2rem 0;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F787&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%94%A5;Always+learning+new+things...;Building+with+code+%E2%9A%99%EF%B8%8F;Sharing+the+journey+%F0%9F%91%8D" alt="Typing SVG">
+</p>
 
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-      transition: transform 0.3s;
-    }
+---
 
-    img:hover {
-      transform: scale(1.05);
-    }
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</div>
 
-    p, h2 {
-      margin: 1rem 0;
-    }
+---
 
-    h2 {
-      color: #00F787;
-      font-weight: 600;
-      border-bottom: 2px solid #00F787;
-      padding-bottom: 0.3rem;
-      margin-top: 3rem;
-    }
+## 🧠 About Me
 
-    .typing-svg {
-      margin: 1rem auto 2rem;
-      display: block;
-      max-width: 435px;
-      width: 90%;
-    }
+🎓 Student at **Belgium Campus ITversity**  
+🎯 Motivated by curiosity, creativity, and the love of problem-solving  
+💡 Exploring tech, design, and how they shape the world  
 
-    .gif-center {
-      margin: 1.5rem auto;
-    }
+---
 
-    .tools-icons {
-      margin-top: 1rem;
-      margin-bottom: 3rem;
-    }
+## 🧰 Languages & Tools
 
-    .stats-container {
-      display: flex;
-      justify-content: space-around;
-      flex-wrap: wrap;
-      gap: 1rem;
-      margin-top: 2rem;
-      margin-bottom: 3rem;
-    }
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
-    .stats-container img {
-      width: 48%;
-      border-radius: 8px;
-      box-shadow: 0 2px 10px rgba(0, 255, 135, 0.3);
-    }
+---
 
-    .connect-links a {
-      margin: 0 0.5rem;
-      display: inline-block;
-    }
+## 📈 GitHub Stats
 
-    .footer-gif {
-      margin-top: 3rem;
-      margin-bottom: 1rem;
-      max-width: 300px;
-    }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vian-Swart&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vian-Swart&theme=radical&hide_border=false" width="48%">
+</p>
 
-    strong {
-      color: #00F787;
-    }
+---
 
-    /* Jokes section */
-    .jokes-container {
-      margin-top: 2rem;
-      background: #222;
-      border-radius: 8px;
-      padding: 1rem;
-      box-shadow: 0 2px 10px rgba(0, 255, 135, 0.3);
-    }
+## 🔗 Connect With Me
 
-    .joke {
-      margin: 1rem 0;
-      font-style: italic;
-    }
+<p align="center">
+  <a href="mailto:swartvian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/vian-swart-52439136a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://www.instagram.com/vian4491/profilecard/?igsh=NXUzbHF2dXBoOGk1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1GxyVr9fVc/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-    /* Responsive tweaks */
-    @media (max-width: 480px) {
-      .stats-container img {
-        width: 100%;
-      }
-    }
-  </style>
-</head>
-<body>
+---
 
-  <h1>Hi there 👋, I'm Vian Swart</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="300" />
+</p>
 
-  <img
-    class="typing-svg"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F787&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%94%A5;Always+learning+new+things...;Building+with+code+%E2%9A%99%EF%B8%8F;Sharing+the+journey+%F0%9F%91%8D"
-    alt="Typing SVG"
-  />
-
-  <hr />
-
-  <div class="gif-center">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Waving gif" />
-  </div>
-
-  <hr />
-
-  <h2>🧠 About Me</h2>
-  <p>🎓 Student at <strong>Belgium Campus ITversity</strong></p>
-  <p>🎯 Motivated by curiosity, creativity, and the love of problem-solving</p>
-  <p>💡 Exploring tech, design, and how they shape the world</p>
-
-  <hr />
-
-  <h2>🧰 Languages & Tools</h2>
-  <p class="tools-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Skills icons" />
-  </p>
-
-  <hr />
-
-  <h2>📈 GitHub Stats</h2>
-  <div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vian-Swart&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vian-Swart&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </div>
-
-  <hr />
-
-  <h2>🔗 Connect With Me</h2>
-  <p align="center" class="connect-links">
-    <a href="mailto:swartvian@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/vian-swart-52439136a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/vian4491/profilecard/?igsh=NXUzbHF2dXBoOGk1" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/share/1GxyVr9fVc/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-  </p>
-
-  <hr />
-
-  <h2>😂 IT Jokes</h2>
-  <div class="jokes-container">
-    <p class="joke">Why do programmers prefer dark mode? Because light attracts bugs!</p>
-    <p class="joke">Why do Java developers wear glasses? Because they don't see sharp!</p>
-    <p class="joke">How many programmers does it take to change a light bulb? None, that's a hardware problem!</p>
-    <p class="joke">Why was the computer cold? It left its Windows open!</p>
-  </div>
-
-  <hr />
-
-  <img
-    class="footer-gif"
-    src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif"
-    alt="Thanks gif"
-  />
-
-  <p><strong>Thanks for visiting! Keep building. 🚀</strong></p>
-
-</body>
-</html>
+<p align="center">
+  <b>Thanks for visiting! Keep building. 🚀</b>
+</p>
